@@ -1,0 +1,13 @@
+C:\Users\gamel\source\repos\labr7\bin\Debug\netcoreapp3.1\labr7.exe
+C:\Users\gamel\source\repos\labr7\bin\Debug\netcoreapp3.1\labr7.deps.json
+C:\Users\gamel\source\repos\labr7\bin\Debug\netcoreapp3.1\labr7.runtimeconfig.json
+C:\Users\gamel\source\repos\labr7\bin\Debug\netcoreapp3.1\labr7.runtimeconfig.dev.json
+C:\Users\gamel\source\repos\labr7\bin\Debug\netcoreapp3.1\labr7.dll
+C:\Users\gamel\source\repos\labr7\bin\Debug\netcoreapp3.1\labr7.pdb
+C:\Users\gamel\source\repos\labr7\obj\Debug\netcoreapp3.1\labr7.csprojAssemblyReference.cache
+C:\Users\gamel\source\repos\labr7\obj\Debug\netcoreapp3.1\labr7.AssemblyInfoInputs.cache
+C:\Users\gamel\source\repos\labr7\obj\Debug\netcoreapp3.1\labr7.AssemblyInfo.cs
+C:\Users\gamel\source\repos\labr7\obj\Debug\netcoreapp3.1\labr7.csproj.CoreCompileInputs.cache
+C:\Users\gamel\source\repos\labr7\obj\Debug\netcoreapp3.1\labr7.dll
+C:\Users\gamel\source\repos\labr7\obj\Debug\netcoreapp3.1\labr7.pdb
+C:\Users\gamel\source\repos\labr7\obj\Debug\netcoreapp3.1\labr7.genruntimeconfig.cache
